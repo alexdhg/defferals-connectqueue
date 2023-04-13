@@ -465,7 +465,7 @@ local function playerConnect(name, setKickReason, deferrals)
             {
                 ["type"] = "TextBlock",
                 ["weight"] = "Bolder",
-                ["text"] = "Anonymous Community - FiveM",
+                ["text"] = " Community - FiveM",
                 ["size"] = "ExtraLarge",
                 ["fontType"] = "Default",
                 ["horizontalAlignment"] = "Center"
@@ -502,7 +502,7 @@ local function playerConnect(name, setKickReason, deferrals)
                                     {
                                         ["type"] ="Action.OpenUrl",
                                         ["title"] = "Discord",
-                                        ["url"] ="https://discord.gg/JSsmvKkQ3m",
+                                        ["url"] ="",
                                         ["style"] ="positive"
                                     }
                                 }
@@ -540,7 +540,7 @@ local function playerConnect(name, setKickReason, deferrals)
                                   {
                                       ["type"] ="Action.OpenUrl",
                                       ["title"] = "Website",
-                                      ["url"] ="http://www.anonymouscommunity.ro",
+                                      ["url"] ="http://www.ro",
                                       ["style"] ="positive"
                                   }
                               }
